@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Train",
+            "type": "python",
+            "request": "launch",
+            "module": "tictactoe",
+            "args": ["train"]
+        },
+        {
+            "name": "Play",
+            "type": "python",
+            "request": "launch",
+            "module": "tictactoe",
+            "args": ["play"]
+        }
+    ]
+}
